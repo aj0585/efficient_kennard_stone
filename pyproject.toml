@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "efficient-kennard-stone"
+version = "0.1.0"
+description = "Fast, memory-efficient exact Kennard-Stone sample selection for up to millions of samples"
+readme = "README.md"
+requires-python = ">=3.9,<3.10"
+license = { text = "MIT" }
+dependencies = [
+    "numpy>=1.21,<1.24",
+    "scipy>=1.7,<1.10",
+    "scikit-learn>=1.0,<1.2",
+    "numba>=0.55,<0.57",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=6.2,<7.3"]
+tbb = ["tbb>=2021.1,<2021.8"]
+examples = ["matplotlib>=3.4,<3.7", "pandas>=1.3,<1.6"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

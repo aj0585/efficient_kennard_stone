@@ -1,0 +1,121 @@
+dataset,method,fraction,extent,mean_gap,max_gap
+Isotropic blobs,Random,0.01,16.7849,0.6502,3.0475
+Isotropic blobs,Random,0.02,28.8317,0.4717,2.6092
+Isotropic blobs,Random,0.05,43.2711,0.2972,2.0888
+Isotropic blobs,Random,0.1,55.7112,0.205,1.8311
+Isotropic blobs,Random,0.2,70.1674,0.1308,1.5103
+Isotropic blobs,Random,0.5,87.8522,0.0525,1.0955
+Isotropic blobs,"Kennard-Stone, Euclidean",0.01,75.3663,0.7943,1.632
+Isotropic blobs,"Kennard-Stone, Euclidean",0.02,90.3463,0.4962,1.027
+Isotropic blobs,"Kennard-Stone, Euclidean",0.05,97.6502,0.2903,0.6331
+Isotropic blobs,"Kennard-Stone, Euclidean",0.1,99.1452,0.1766,0.366
+Isotropic blobs,"Kennard-Stone, Euclidean",0.2,99.7497,0.1,0.2193
+Isotropic blobs,"Kennard-Stone, Euclidean",0.5,100.0,0.03,0.0979
+Isotropic blobs,"Kennard-Stone, Mahalanobis",0.01,64.1887,0.7537,1.7876
+Isotropic blobs,"Kennard-Stone, Mahalanobis",0.02,80.6486,0.5313,1.5086
+Isotropic blobs,"Kennard-Stone, Mahalanobis",0.05,96.0708,0.3172,0.7549
+Isotropic blobs,"Kennard-Stone, Mahalanobis",0.1,99.4676,0.191,0.4822
+Isotropic blobs,"Kennard-Stone, Mahalanobis",0.2,99.8538,0.1063,0.3344
+Isotropic blobs,"Kennard-Stone, Mahalanobis",0.5,100.0,0.0327,0.1563
+Isotropic blobs,"Kennard-Stone, mean start",0.01,75.3663,0.7943,1.632
+Isotropic blobs,"Kennard-Stone, mean start",0.02,90.3463,0.4962,1.027
+Isotropic blobs,"Kennard-Stone, mean start",0.05,97.6502,0.2903,0.6331
+Isotropic blobs,"Kennard-Stone, mean start",0.1,99.1452,0.1766,0.366
+Isotropic blobs,"Kennard-Stone, mean start",0.2,99.7497,0.1,0.2193
+Isotropic blobs,"Kennard-Stone, mean start",0.5,100.0,0.03,0.0979
+Anisotropic blobs,Random,0.01,16.7849,0.3712,3.0621
+Anisotropic blobs,Random,0.02,28.8317,0.2487,2.4892
+Anisotropic blobs,Random,0.05,43.2711,0.1499,1.9701
+Anisotropic blobs,Random,0.1,55.7112,0.1009,1.6344
+Anisotropic blobs,Random,0.2,70.1674,0.0639,1.2845
+Anisotropic blobs,Random,0.5,87.8522,0.0254,0.766
+Anisotropic blobs,"Kennard-Stone, Euclidean",0.01,74.8499,0.4457,0.9591
+Anisotropic blobs,"Kennard-Stone, Euclidean",0.02,88.1351,0.2614,0.5473
+Anisotropic blobs,"Kennard-Stone, Euclidean",0.05,96.5379,0.1466,0.3124
+Anisotropic blobs,"Kennard-Stone, Euclidean",0.1,98.9654,0.0879,0.179
+Anisotropic blobs,"Kennard-Stone, Euclidean",0.2,99.763,0.0489,0.1099
+Anisotropic blobs,"Kennard-Stone, Euclidean",0.5,100.0,0.0145,0.0482
+Anisotropic blobs,"Kennard-Stone, Mahalanobis",0.01,64.1887,0.4117,1.183
+Anisotropic blobs,"Kennard-Stone, Mahalanobis",0.02,80.6486,0.2612,0.737
+Anisotropic blobs,"Kennard-Stone, Mahalanobis",0.05,96.0708,0.1509,0.3677
+Anisotropic blobs,"Kennard-Stone, Mahalanobis",0.1,99.4676,0.0945,0.259
+Anisotropic blobs,"Kennard-Stone, Mahalanobis",0.2,99.8538,0.0535,0.1629
+Anisotropic blobs,"Kennard-Stone, Mahalanobis",0.5,100.0,0.0157,0.0773
+Anisotropic blobs,"Kennard-Stone, mean start",0.01,74.8499,0.4457,0.9591
+Anisotropic blobs,"Kennard-Stone, mean start",0.02,88.1351,0.2614,0.5473
+Anisotropic blobs,"Kennard-Stone, mean start",0.05,96.5379,0.1466,0.3124
+Anisotropic blobs,"Kennard-Stone, mean start",0.1,98.9654,0.0879,0.179
+Anisotropic blobs,"Kennard-Stone, mean start",0.2,99.763,0.0489,0.1099
+Anisotropic blobs,"Kennard-Stone, mean start",0.5,100.0,0.0145,0.0482
+Unequal variance blobs,Random,0.01,16.7849,0.872,4.2136
+Unequal variance blobs,Random,0.02,28.8317,0.633,3.6288
+Unequal variance blobs,Random,0.05,43.2711,0.3956,2.8321
+Unequal variance blobs,Random,0.1,55.7112,0.2734,2.492
+Unequal variance blobs,Random,0.2,70.1674,0.1749,2.037
+Unequal variance blobs,Random,0.5,87.8522,0.0702,1.4104
+Unequal variance blobs,"Kennard-Stone, Euclidean",0.01,45.4113,1.0578,3.282
+Unequal variance blobs,"Kennard-Stone, Euclidean",0.02,52.222,0.7478,2.2956
+Unequal variance blobs,"Kennard-Stone, Euclidean",0.05,73.8994,0.4095,1.9724
+Unequal variance blobs,"Kennard-Stone, Euclidean",0.1,91.0339,0.2416,1.5627
+Unequal variance blobs,"Kennard-Stone, Euclidean",0.2,93.388,0.1333,1.2856
+Unequal variance blobs,"Kennard-Stone, Euclidean",0.5,98.1212,0.0341,1.0753
+Unequal variance blobs,"Kennard-Stone, Mahalanobis",0.01,37.3874,1.3096,3.4829
+Unequal variance blobs,"Kennard-Stone, Mahalanobis",0.02,61.8962,0.7414,2.4803
+Unequal variance blobs,"Kennard-Stone, Mahalanobis",0.05,71.5974,0.4137,1.6978
+Unequal variance blobs,"Kennard-Stone, Mahalanobis",0.1,86.4954,0.253,1.6171
+Unequal variance blobs,"Kennard-Stone, Mahalanobis",0.2,89.3087,0.1414,1.511
+Unequal variance blobs,"Kennard-Stone, Mahalanobis",0.5,97.9447,0.0355,0.7962
+Unequal variance blobs,"Kennard-Stone, mean start",0.01,44.9752,1.2961,3.5964
+Unequal variance blobs,"Kennard-Stone, mean start",0.02,57.6835,0.6822,2.2014
+Unequal variance blobs,"Kennard-Stone, mean start",0.05,81.3537,0.4179,1.8703
+Unequal variance blobs,"Kennard-Stone, mean start",0.1,88.5579,0.2378,1.6846
+Unequal variance blobs,"Kennard-Stone, mean start",0.2,91.5147,0.1316,1.5394
+Unequal variance blobs,"Kennard-Stone, mean start",0.5,97.9852,0.0336,1.0089
+Moons,Random,0.01,56.6067,0.1314,0.4453
+Moons,Random,0.02,68.8292,0.0777,0.2875
+Moons,Random,0.05,81.225,0.0457,0.1787
+Moons,Random,0.1,86.9427,0.0306,0.1463
+Moons,Random,0.2,91.4783,0.0196,0.121
+Moons,Random,0.5,96.9986,0.0079,0.0867
+Moons,"Kennard-Stone, Euclidean",0.01,87.2999,0.1181,0.2381
+Moons,"Kennard-Stone, Euclidean",0.02,93.2544,0.0874,0.1589
+Moons,"Kennard-Stone, Euclidean",0.05,98.827,0.0428,0.0868
+Moons,"Kennard-Stone, Euclidean",0.1,99.3844,0.027,0.0557
+Moons,"Kennard-Stone, Euclidean",0.2,99.9958,0.0157,0.0347
+Moons,"Kennard-Stone, Euclidean",0.5,99.9958,0.005,0.0163
+Moons,"Kennard-Stone, Mahalanobis",0.01,87.2904,0.1122,0.2833
+Moons,"Kennard-Stone, Mahalanobis",0.02,93.9707,0.0762,0.1834
+Moons,"Kennard-Stone, Mahalanobis",0.05,97.8188,0.045,0.1057
+Moons,"Kennard-Stone, Mahalanobis",0.1,99.4684,0.0277,0.0667
+Moons,"Kennard-Stone, Mahalanobis",0.2,99.8855,0.0161,0.0453
+Moons,"Kennard-Stone, Mahalanobis",0.5,99.9785,0.0052,0.023
+Moons,"Kennard-Stone, mean start",0.01,87.2999,0.1181,0.2381
+Moons,"Kennard-Stone, mean start",0.02,93.2544,0.0874,0.1589
+Moons,"Kennard-Stone, mean start",0.05,98.827,0.0428,0.0868
+Moons,"Kennard-Stone, mean start",0.1,99.3844,0.027,0.0557
+Moons,"Kennard-Stone, mean start",0.2,99.9958,0.0157,0.0347
+Moons,"Kennard-Stone, mean start",0.5,99.9958,0.005,0.0163
+Concentric circles,Random,0.01,68.1726,0.169,0.5556
+Concentric circles,Random,0.02,79.0132,0.0933,0.3298
+Concentric circles,Random,0.05,85.9923,0.0496,0.1805
+Concentric circles,Random,0.1,89.8476,0.0329,0.1328
+Concentric circles,Random,0.2,93.4372,0.0208,0.1054
+Concentric circles,Random,0.5,97.3597,0.0083,0.0793
+Concentric circles,"Kennard-Stone, Euclidean",0.01,83.8282,0.1225,0.2421
+Concentric circles,"Kennard-Stone, Euclidean",0.02,94.5433,0.0868,0.176
+Concentric circles,"Kennard-Stone, Euclidean",0.05,98.5036,0.0472,0.0934
+Concentric circles,"Kennard-Stone, Euclidean",0.1,99.3405,0.0299,0.0623
+Concentric circles,"Kennard-Stone, Euclidean",0.2,99.682,0.017,0.038
+Concentric circles,"Kennard-Stone, Euclidean",0.5,99.9684,0.0052,0.0171
+Concentric circles,"Kennard-Stone, Mahalanobis",0.01,83.8282,0.1225,0.2421
+Concentric circles,"Kennard-Stone, Mahalanobis",0.02,94.0736,0.0862,0.176
+Concentric circles,"Kennard-Stone, Mahalanobis",0.05,98.3435,0.0471,0.095
+Concentric circles,"Kennard-Stone, Mahalanobis",0.1,99.3192,0.0298,0.0617
+Concentric circles,"Kennard-Stone, Mahalanobis",0.2,99.6501,0.0171,0.038
+Concentric circles,"Kennard-Stone, Mahalanobis",0.5,99.9684,0.0052,0.0171
+Concentric circles,"Kennard-Stone, mean start",0.01,83.8282,0.1225,0.2421
+Concentric circles,"Kennard-Stone, mean start",0.02,94.5433,0.0868,0.176
+Concentric circles,"Kennard-Stone, mean start",0.05,98.5036,0.0472,0.0934
+Concentric circles,"Kennard-Stone, mean start",0.1,99.3405,0.0299,0.0623
+Concentric circles,"Kennard-Stone, mean start",0.2,99.682,0.017,0.038
+Concentric circles,"Kennard-Stone, mean start",0.5,99.9684,0.0052,0.0171
